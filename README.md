@@ -2,7 +2,8 @@
 
 # COMO FUCNIONA?
 
-O programa "check_dup_app" realiza uma varredura e checa do arquivo excel e retorna outro arquivo excel com dados duplicados salvos.
+O programa "check_dup_app" realiza uma varredura e checa o arquivo excel localizado em: "/arquivo" e retorna outro arquivo excel com dados duplicados no diretório: "/duplicados".
+
 O programa não utiliza internet.
 
 # COMO USAR?
