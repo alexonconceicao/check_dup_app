@@ -1,0 +1,17 @@
+{
+    "arquivos": [
+        {
+            "diretorio_arquivo": "./arquivo",
+            "nome_arquivo": "NOME_ARQUIVO.xlsx",
+            "diretorio_saida": "./duplicados",
+            "nome_saida_excel": "duplicatas.xlsx",
+            "colunas": [
+                "coluna0",
+                "coluna1",
+                "coluna2",
+                "coluna3",
+                "coluna4"
+            ]
+        }
+    ]
+}
